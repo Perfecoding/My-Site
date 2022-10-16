@@ -113,8 +113,9 @@ a:hover{
 }
 
 .contact-me-description{
+  width: 40%;
   padding: 0 0 0 10px;
-  margin: 50px auto 50px auto;
+  margin: 20px auto 50px auto;
 }
 
 .btn {
@@ -129,7 +130,7 @@ a:hover{
   border-radius: 8px;
   font-family: Arial;
   color: #ffffff;
-  font-size: 22px;
+  font-size: 20px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
