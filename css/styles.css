@@ -1,8 +1,8 @@
 body {
-
   font-family: 'Jost', sans-serif;
   margin: 0 0 0 0;
   text-align: center;
+  color: #40514E;
 }
 
 
@@ -23,11 +23,6 @@ hr{
 }
 
 .middle-container {
-
-}
-
-.selfintro{
-  color: #40514E;
 }
 
 .bottom-container {
@@ -58,6 +53,10 @@ h3{
   color: #11999E;
 }
 
+p{
+  line-height: 2;
+}
+
 a:hover{
   text-decoration: underline;
 }
@@ -66,6 +65,11 @@ a:hover{
   font-family: 'VT323', monospace;
   margin: 0 auto 0 auto;
   font-weight:lighter;
+}
+
+.selfintro{
+  width: 30%;
+  margin: auto;
 }
 
 .footer-link{
@@ -100,7 +104,6 @@ a:hover{
   width: 50%;
   margin: 50px auto 50px auto;
   text-align: left;
-  line-height: 2;
 }
 
 .MySkills{
